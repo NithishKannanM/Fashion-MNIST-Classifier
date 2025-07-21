@@ -1,6 +1,5 @@
-tensorflow
 streamlit
+tensorflow
 numpy
-Pillow
+pillow
 matplotlib
-scikit-learn
